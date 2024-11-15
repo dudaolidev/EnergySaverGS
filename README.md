@@ -37,7 +37,6 @@ A solução tem como principais objetivos:
 ![image](https://github.com/user-attachments/assets/dbc38619-a34c-4692-a9c7-754b14a517b7)
 
 
-
 ### Tecnologias Utilizadas
 - **Java** e **Spring Boot** para a API Rest
 - **Banco de Dados**: MySQL ou PostgreSQL para dados relacionais
@@ -51,3 +50,18 @@ A solução tem como principais objetivos:
    ```
    git clone https://github.com/dudaolidev/EnergySaverGS.git
    ```
+
+
+### Configuração do Ambiente
+
+1. **Configurar o Banco de Dados**:
+   - Criar um banco de dados Oracle.
+   - Executar o script de criação de tabelas fornecido em `scripts.sql`.
+
+2. **Configurar a API**:
+   - Configurar as variáveis de ambiente no arquivo `.env`.
+   - Iniciar o servidor:
+     ```bash
+     mvn spring-boot:run
+     ```
+
