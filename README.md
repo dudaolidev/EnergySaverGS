@@ -59,7 +59,7 @@ A solução tem como principais objetivos:
    - Executar o script de criação de tabelas fornecido em `scripts.sql`.
 
 2. **Configurar a API**:
-   - Configurar as variáveis de ambiente no arquivo `.env`.
+   - Configurar as variáveis de ambiente no arquivo `application.properties`.
    - Iniciar o servidor:
      ```bash
      mvn spring-boot:run
