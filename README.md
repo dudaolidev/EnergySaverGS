@@ -1,4 +1,4 @@
-# EnergySaver ![image](https://github.com/user-attachments/assets/89b69752-08d4-46a4-948d-e74a8e2905ab)
+# EnergySaver <img src="https://github.com/user-attachments/assets/89b69752-08d4-46a4-948d-e74a8e2905ab" alt="Descrição da imagem" width="300"/>
 
 
 ### Projeto destinado aos entregáveis da Global Solutions 2024.2
