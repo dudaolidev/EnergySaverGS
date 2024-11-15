@@ -49,5 +49,5 @@ A solução tem como principais objetivos:
 ### Configuração do Ambiente
 1. Clonar o repositório:  
    ```
-   git clone 
+   git clone https://github.com/dudaolidev/EnergySaverGS.git
    ```
