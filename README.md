@@ -1,5 +1,9 @@
-# EnergySaver <img src="https://github.com/user-attachments/assets/89b69752-08d4-46a4-948d-e74a8e2905ab" alt="Descrição da imagem" width="150"/>
+<img src="https://github.com/user-attachments/assets/89b69752-08d4-46a4-948d-e74a8e2905ab" alt="Descrição da imagem" width="150"/>
+--- 
 
+# EnergySaver 
+
+---
 
 ### Projeto destinado aos entregáveis da Global Solutions 2024.2
 ### Tema: Energia sustentável
