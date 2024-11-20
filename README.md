@@ -42,6 +42,9 @@ A solução tem como principais objetivos:
 ![image](https://github.com/user-attachments/assets/dbc38619-a34c-4692-a9c7-754b14a517b7)
 
 
+### Tarefa Finalizada
+![image](https://github.com/user-attachments/assets/c8e021ed-c367-4434-b8d6-3f553da92f4f)
+
 ### Tecnologias Utilizadas
 - **Java** e **Spring Boot** para a API Rest
 - **Banco de Dados**: MySQL ou PostgreSQL para dados relacionais
