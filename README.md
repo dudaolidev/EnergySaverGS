@@ -47,7 +47,7 @@ A solução tem como principais objetivos:
 
 ### Tecnologias Utilizadas
 - **Java** e **Spring Boot** para a API Rest
-- **Banco de Dados**: MySQL ou PostgreSQL para dados relacionais
+- **Banco de Dados**: OracleSQL para dados relacionais
 - **Aplicativo Mobile**: Framework (React Native ou Flutter) para interface do usuário
 - **Internet das Coisas (IoT)** para sensores e dispositivos de monitoramento de postes
 
